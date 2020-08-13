@@ -1,6 +1,7 @@
 ## Vim is awesome
-### Here are just a few motions and commands that are beyond the basics and very useful...
-
+### Here is just a short list of motions and commands that are beyond the basics and very useful...
+<details>
+  <summary>Expand to see the list</summary>
 <!--
 **joelpalmer/joelpalmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -117,4 +118,4 @@ Spelling:
 - 1z= takes the first spelling suggestion
 - zg - add spelling word
 - z= -- look at spelling suggestions
-
+</details>
