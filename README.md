@@ -1,5 +1,5 @@
 ![Neovim](https://img.shields.io/badge/editor-Neovim-green?logo=neovim&style=plastic)
-## Vim is awesome
+## Vim is awesome (Updated Oct 27, 2020)
 ### Here is just a short list of motions and commands that are beyond the basics and very useful...
 <details>
   <summary>Expand to see the list</summary>
