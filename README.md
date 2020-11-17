@@ -7,9 +7,21 @@
 **joelpalmer/joelpalmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 	
+# undo/redo - change
+- U - does a new change, undoing last change - like `git revert`
+# Copy - Paste
+- yiw to copy word under cursor
+- viwp - replace another word with word from yiw
+- <leader>y and movement
 # Fugitive
 - = in staging are toggles diff for file under cursor
 - y + ctrl-g for copying current file name - current fugitive object
+# vim-gitgutter
+- Navigate hunks `[c` `]c`
+- <leader>hp - preview hunk
+- <leader>hs - stage hunk
+- <leader>hu - undo hunk
+- :GitGutterLineHighlightsToggle
 # Mixed - organize
 - @: repeat last ex command
 - ctrl-o opens last edited Vim file
@@ -108,6 +120,7 @@ Other stuff?
 - df<space> delete up to and including next space
 - dt. -- delete until .
 - ye -- copy/yank text from here to end of word
+- 0yw - yank first word in line
 - cc -- cut current line or S
 - B & E use whitespace a delimeters
 - g; (last place you made a change!) and g, move forward and backwards through the changelist!
