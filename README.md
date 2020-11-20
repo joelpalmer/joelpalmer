@@ -1,5 +1,8 @@
 ![Neovim](https://img.shields.io/badge/editor-Neovim-green?logo=neovim&style=plastic)
-## Vim is awesome (Updated Nov 17, 2020)
+## Vim with your soul like ether (Updated Nov 20, 2020)
+
+>There is a day in the life of a man when he realizes that the traditional way of using a computer is flawed, that graphical interfaces were a bad idea, that the mouse is an absurd invention, that a life away from the home row is not a life worth living. -- Pablo Arias
+
 ### Here is just a short list of motions and commands that are beyond the basics and very useful...
 <details>
   <summary>Expand to see the list</summary>
