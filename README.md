@@ -5,4 +5,4 @@
 
 My `dotfiles` repo is private but some of my vim configs are available as Gists (pinned below & hopefully up-to-date). There is quite a bit going on in my runtime path files which are not shared. I may add more of the `rtp` files as Gists or make my dotfiles public. 
 
-Life-Changing Neovim Plugin: https://github.com/hrsh7th/nvim-compe "Auto completion plugin for nvim that written in Lua."  -- better than `nvim-lua/completion-nvim` as of this writing. Take the defaults and prepare yourself to be amazed. 
+Life-Changing Neovim Plugin: https://github.com/hrsh7th/nvim-compe "Auto completion plugin for nvim that's written in Lua."  -- better than `nvim-lua/completion-nvim` as of this writing. Take the defaults and prepare yourself to be amazed. 
