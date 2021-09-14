@@ -1,5 +1,5 @@
-![Neovim](https://img.shields.io/badge/editor-Neovim-green?logo=neovim&style=plastic)
-## Neovim + 🔭 = 💪 (Updated Aug 27, 2021)
+![Neovim version](https://img.shields.io/badge/Neovim-0.6.0-57A143?style=plastic&logo=neovim)
+## Neovim + 🔭 = 💪 (Updated Sep 14, 2021)
 
 The Neovim command that you need if you love to work on your configs (you know you do) is:
 ```lua
