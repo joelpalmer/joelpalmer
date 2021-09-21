@@ -1,11 +1,16 @@
 ![Neovim version](https://img.shields.io/badge/Neovim-0.6.0-57A143?style=plastic&logo=neovim)
-## Neovim + 🔭 = 💪 (Updated Sep 14, 2021)
-
-The Neovim command that you need if you love to work on your configs (you know you do) is:
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=plastic&logo=lua&logoColor=white)
+## Neovim + 🔭 = 💪 (Updated Sep 21, 2021)
+**News:** [galaxyline.nvim](https://github.com/NTBBloodbath/galaxyline.nvim) has a new and active maintainer!
+**Grep through open files:**
 ```lua
--- The greatest neovim command ever (other than :Telescope).
--- https://github.com/nvim-treesitter/playground#show-treesitter-and-syntax-highlight-groups-under-the-cursor
-vim.api.nvim_set_keymap("n", ",t", ":TSHighlightCapturesUnderCursor<CR>", { noremap = true, silent = true })
+-- Telescopic version of FZF's :Lines 🔭
+vim.api.nvim_set_keymap(
+  "n",
+  ",l",
+  [[<Cmd>lua require('telescope.builtin').live_grep({grep_open_files=true})<CR>]],
+  { noremap = true, silent = true }
+)
 ```
 
 <details>
