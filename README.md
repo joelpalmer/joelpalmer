@@ -2,7 +2,8 @@
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=plastic&logo=lua&logoColor=white)
 ## Neovim + 🔭 = 💪 (Updated Oct 19, 2021)
 **News:** [galaxyline.nvim](https://github.com/NTBBloodbath/galaxyline.nvim) has a new and active maintainer!
-**Grep through open files/buffers:**
+
+**Keymap to try:** _Grep through open files/buffers:_
 ```lua
 -- Telescopic version of FZF's :Lines 🔭
 vim.api.nvim_set_keymap(
