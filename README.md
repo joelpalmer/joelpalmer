@@ -1,7 +1,8 @@
 ![Neovim version](https://img.shields.io/badge/Neovim-0.6.0-57A143?style=plastic&logo=neovim)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=plastic&logo=lua&logoColor=white)
-## Neovim + 🔭 = 💪 (Updated Oct 19, 2021)
-**News:** [galaxyline.nvim](https://github.com/NTBBloodbath/galaxyline.nvim) has a new and active maintainer!
+## Neovim + 🔭 = 💪 (Updated Oct 20, 2021)
+**_News:_ [virtual vim conf live October 29th/30th](https://www.vimconf.live/) is almost here. Click the link to see the agenda and register. It's free! Tons of scheduled goodness!**
+
 
 **Keymap to try:** _Grep through open files/buffers:_
 ```lua
