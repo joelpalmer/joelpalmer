@@ -7,6 +7,8 @@
 ### NeoNews:
 - [Neovim 0.6 has released](https://github.com/neovim/neovim/releases/tag/v0.6.0) *_you should use nightly though_
 - 🔭 [Telescope's `builtin.file_browser` will be removed December 19th](https://github.com/nvim-telescope/telescope.nvim/issues/1470#issuecomment-974147513)
+  - See how to [migrate here](https://github.com/whatsthatsmell/dots/commit/0066a230a365bbd367ccd072e970b5c3ab276d86)
+
 ### RustyNews:
 - [Rust 1.57.0 Stable Released](https://blog.rust-lang.org/2021/12/02/Rust-1.57.0.html) *_you should use nightly though_
 
