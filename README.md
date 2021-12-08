@@ -2,7 +2,7 @@
 ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=plastic&logo=rust&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?style=plastic&logo=lua&logoColor=white)
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=plastic&logo=Brave&logoColor=white)
-## Neovim with Lua + 🔭 = 🎉 (Updated Dec 06, 2021)
+## Neovim with Lua + 🔭 = 🎉 (Updated Dec 08, 2021)
 
 ### NeoNews:
 - [Neovim 0.6 has released](https://github.com/neovim/neovim/releases/tag/v0.6.0) *_you should use nightly though_
@@ -15,11 +15,4 @@
 
 **Plugin to try:** [neoclip: Clipboard manager - neovim plugin with telescope integration](https://github.com/AckslD/nvim-neoclip.lua) 🔭 🔥
 
-
-<details>
-  <summary>Stats</summary>
-  
-![Metrics](https://github.com/joelpalmer/joelpalmer/blob/main/github-metrics.svg)
-  
-</details>
 
