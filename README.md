@@ -14,5 +14,5 @@
 ### Coming Soon 🚧:
 - **[joelpalmer.github.io](https://joelpalmer.github.io)**
 
-**Plugin to try:** [neoclip: Clipboard manager - neovim plugin with telescope integration](https://github.com/AckslD/nvim-neoclip.lua) 🔭 🔥
+**Awesome Neovim plugin you should try:** [crates.nvim: managing crates.io dependencies](https://github.com/Saecki/crates.nvim) 🦀 🔥
 
