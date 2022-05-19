@@ -6,7 +6,7 @@
 ## Rust ➕ Neovim = 🔥 (Updated May 19th, 2022)
 
 ### RustyNews:
-- [Announcing Rust 1.60.0 Stable](https://blog.rust-lang.org/2022/04/07/Rust-1.60.0.html) 🦀 [Release Notes](https://github.com/rust-lang/rust/blob/master/RELEASES.md#version-1600-2022-04-07)
+- [Announcing Rust 1.61.0 Stable](https://blog.rust-lang.org/2022/05/19/Rust-1.61.0.html) 🦀 [Release Notes](https://github.com/rust-lang/rust/releases/tag/1.61.0)
 - [rust-analyzer joins the Rust organization!](https://blog.rust-lang.org/2022/01/20/Rust-1.58.1.html)
 - [quick note](https://github.com/whatsthatsmell/q-note) 🦀⚙ -- a little Rust WIP from 💩-- contributions welcomed
 ### NeoNews:
