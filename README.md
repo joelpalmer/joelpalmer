@@ -1,4 +1,4 @@
-![Neovim version](https://img.shields.io/badge/Neovim-0.8.x-57A143?style=plastic&logo=neovim)
+![Neovim version](https://img.shields.io/badge/Neovim-0.9.x-57A143?style=plastic&logo=neovim)
 <img align="right" width="100" height="100" src="https://user-images.githubusercontent.com/8049061/155224899-71324823-4cc0-431a-90e5-63e3c51af05f.png">
 ![Rust](https://img.shields.io/badge/Rust-1.66.x-%23000000.svg?style=plastic&logo=rust&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?style=plastic&logo=lua&logoColor=white)
