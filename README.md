@@ -3,7 +3,7 @@
 ![Rust](https://img.shields.io/badge/Rust-1.68.x-%23000000.svg?style=plastic&logo=rust&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?style=plastic&logo=lua&logoColor=white)
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=plastic&logo=Brave&logoColor=white)
-## Rust ➕ Neovim = 🔥 (Updated Dec 14th, 2022)
+## Rust ➕ Neovim = 🔥 (Updated Dec 15th, 2022)
 
 ### RustyNews:
 - **[Announcing Rust 1.65.0 Stable](https://blog.rust-lang.org/2022/11/03/Rust-1.65.0.html)** 🦀 
@@ -15,8 +15,6 @@
 - This `NVim` → `cmp` plugin is a game changer for Rust devs: [crates.nvim: manage crates.io dependencies](https://github.com/Saecki/crates.nvim)
 
 
-### Coming Soon 🚧:
-- **[joelpalmer.github.io](https://joelpalmer.github.io)**
+**Awesome Neovim plugin you should try if you're a Rust developer:** [crates.nvim: managing crates.io dependencies](https://github.com/Saecki/crates.nvim) 🦀 🔥
 
-**Awesome Neovim plugin you should try:** [crates.nvim: managing crates.io dependencies](https://github.com/Saecki/crates.nvim) 🦀 🔥
-
+**Awesome Rust tool you should try if you want a faster Rust dev workflow:** [bacon is a background rust code checker](https://github.com/Canop/bacon) 🦀 🔥 🥓
