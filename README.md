@@ -3,10 +3,10 @@
 ![Rust](https://img.shields.io/badge/Rust-1.68.x-%23000000.svg?style=plastic&logo=rust&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?style=plastic&logo=lua&logoColor=white)
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=plastic&logo=Brave&logoColor=white)
-## Rust ➕ Neovim = 🔥 (Updated Dec 15th, 2022)
+## Rust ➕ Neovim = 🔥 (Updated Dec 19th, 2022)
 
 ### RustyNews:
-- **[Announcing Rust 1.65.0 Stable](https://blog.rust-lang.org/2022/11/03/Rust-1.65.0.html)** 🦀 
+- **[Announcing Rust 1.66.0 Stable](https://blog.rust-lang.org/2022/12/15/Rust-1.66.0.html)** 🦀 
 - [rust-analyzer joins the Rust organization!](https://blog.rust-lang.org/2022/01/20/Rust-1.58.1.html)
 - [quick note](https://github.com/whatsthatsmell/q-note) 🦀⚙ -- a little Rust WIP from 💩-- contributions welcomed
 ### NeoNews:
