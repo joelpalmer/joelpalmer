@@ -6,6 +6,6 @@
 ## Rust ➕ Neovim = 🔥 (Updated Mar 9th, 2023)
 
 
-**Awesome Neovim plugin you should try if you're a Rust developer:** [crates.nvim: managing crates.io dependencies](https://github.com/Saecki/crates.nvim) 🦀 🔥
+**Neovim plugin you should try if you're a Rust developer:** [crates.nvim: managing crates.io dependencies](https://github.com/Saecki/crates.nvim) 🦀 🔥
 
-**Awesome Rust tool you should try if you want a faster Rust dev workflow:** [bacon is a background rust code checker](https://github.com/Canop/bacon) 🦀 🔥 🥓
+**Rust tool you should try if you want a faster Rust dev workflow:** [bacon is a background rust code checker](https://github.com/Canop/bacon) 🦀 🔥 🥓
