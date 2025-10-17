@@ -4,7 +4,7 @@
 ![Rust](https://img.shields.io/badge/Rust-1.90.x-%23000000.svg?style=plastic&logo=rust&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?style=plastic&logo=lua&logoColor=white)
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=plastic&logo=Brave&logoColor=white)
-## Rust ➕ Neovim (maybe Helix) = 🔥 (Updated Oct 17th, 2025)
+### Rust ➕ Neovim (maybe Helix) = 🔥 (Updated Oct 17th, 2025)
 
 
 **_Currently trying RustRover and Helix_**
